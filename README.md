@@ -1,1 +1,1 @@
-# Anatta Path
+# Path of Anatta
