@@ -1,1 +1,1 @@
-# .github
+# Anatta Path
